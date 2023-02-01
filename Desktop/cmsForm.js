@@ -184,7 +184,7 @@ var cmsForm = function() {
 
             });
 
-            formData = params;
+          
             return params;
         },
 
